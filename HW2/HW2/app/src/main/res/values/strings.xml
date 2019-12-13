@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="add_new_contact_button">Add New Contact Button</string>
+    <string name="no_notes">Sorry, no contacts</string>
+    <string name="menu_insert">Insert new contact</string>
+    <string name="menu_delete">Delete contact</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_address">Address</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="email">email</string>
+    <string name="first_name_2">First Name:</string>
+    <string name="last_name_2">Last Name:</string>
+    <string name="email_2">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="no_first_name">(no first name)</string>
+    <string name="no_last_name">(no last name)</string>
+    <string name="no_email">(no email)</string>
+    <string name="no_phone">(no phone)</string>
+    <string name="comma">,</string>
+</resources>
